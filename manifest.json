@@ -1,0 +1,6 @@
+{
+  "name": "password-generator",
+  "short_name": "password-generator",
+  "start_url": "/",
+  "display": "standalone"
+}
