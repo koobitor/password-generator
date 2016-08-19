@@ -1,0 +1,18 @@
+{
+  "name": "password-generator",
+  "authors": [
+    "Sakol Assawasagool <koobitor@gmail.com>",
+    "Krisada Jamchat <jam.krisada@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
